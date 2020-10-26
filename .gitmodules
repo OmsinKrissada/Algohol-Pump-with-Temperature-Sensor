@@ -1,0 +1,8 @@
+[submodule "libs/Adafruit-MLX90614-Library"]
+	path = libs/Adafruit-MLX90614-Library
+	url = https://github.com/adafruit/Adafruit-MLX90614-Library.git
+	branch = master
+[submodule "libs/DigitalTube"]
+	path = libs/DigitalTube
+	url = https://github.com/OmsinKrissada/DigitalTube.git
+	branch = master
